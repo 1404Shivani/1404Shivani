@@ -1,5 +1,7 @@
 <h1 align="center">Hey 👋, I'm Shivani </h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1404shivani&label=Profile%20views&color=0e75b6&style=flat" alt="1404shivani" /> </p>
 
@@ -13,7 +15,7 @@
 
 - 📫 How to reach me **1404shivani@gmail.com**
 
-- ⚡ Fun fact **On a mission to find the spiciest noodle .**
+- ⚡ Fun fact **On a mission to find the  .**
 <img align="right" alt="Coding" width="400" src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif">
 
 <h3 align="left">Connect with me:</h3>
