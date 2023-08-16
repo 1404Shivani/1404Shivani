@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **1404shivani@gmail.com**
 
-- ⚡ Fun fact **On a mission to find the spiciest noodle dish and see if I can handle the heat.**
+- ⚡ Fun fact **On a mission to find the spiciest noodle .**
 <img align="right" alt="Coding" width="400" src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif">
 
 <h3 align="left">Connect with me:</h3>
